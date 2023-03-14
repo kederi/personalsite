@@ -1,0 +1,81 @@
+    *****Table 
+    <table cellspacing = "20">
+        <tr>
+            <td><img src="images/KobiEderi.jpg" alt="kobi profile photo"></td>     
+            <td>    
+                <h1>Kobi Ederi</h1>
+                <p><em>Aspiring <strong>Full Stack Web Developer | <a href="https://www.linkedin.com/in/kobi-ederi/">Linkedin</a></strong></em></p>
+                <p><a href="contact.html">Contact Me</a></p>
+                <p>Hello, I am a recent Spring of 2022 graduate of Computer Science from the 
+                University of Oklahoma. 
+                </p>
+            </td>
+        </tr>
+    </table>
+
+    *****Everything else
+        <hr>
+    <h3>Work Experience</h3>
+    <table>
+        <th>Dates</th>
+        <th>Work</th>
+        <tr>
+            <td>2022 - 2023</td>
+            <td>Consultant Software Developer Intern at Headstorm LLC</td>
+        </tr>
+        <tr>
+            <td>2021 - 2022</td>
+            <td> Operational Intern at Hillel at the University of Oklahoma</td>
+        </tr>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+
+    <table>
+        <tr>
+            <td>
+                <table cellspacing = "10">
+                <tr>
+                    <td>Java</td>
+                    <td>⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>C++</td> 
+                    <td>⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>Python</td>
+                    <td>⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>Javascript</td>
+                    <td>⭐⭐</td>
+                </tr>
+                </table>
+            </td>
+            <td>
+                <table cellspacing = "10">
+                <tr>
+                    <td>Problem Solving</td> \
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>Dependability</td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>Communication</td> 
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>Willingness to Learn</td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+            </table>
+            </td>
+        </tr>
+    </table>
+     <table>
+    </table>
+    <hr>
+    <a href="hobbies.html">My Hobbies</a>

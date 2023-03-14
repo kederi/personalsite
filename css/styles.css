@@ -1,0 +1,36 @@
+body {
+        background-color: #BEF0CB;
+        margin: 0;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    margin-top: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 75px;
+}
+.top-container{
+    background-color: #F6E6C2;
+    position: relative;
+    padding-top: 100px;
+}
+hr {
+        height: 0px;
+        width: 30%;
+}
+.web{
+    text-decoration: underline;
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottomcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.skill-row{
+    padding-top: 50px;
+}
