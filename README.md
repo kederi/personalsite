@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! My name is John Doe, and I am a recent graduate of University of Oklahoma with a Bachelor's degree in Computer Science. I have always been passionate about technology and programming, and I am excited to begin my career as a web developer.
+Hi there! My name is Kobi Ederi, and I am a recent graduate of University of Oklahoma with a Bachelor's degree in Computer Science. I have always been passionate about technology and programming, and I am excited to begin my career as a web developer.
 
 ## Qualifications
 
